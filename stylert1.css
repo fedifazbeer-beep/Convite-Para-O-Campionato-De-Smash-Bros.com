@@ -1,0 +1,14 @@
+body {
+  background-color: blue;
+}
+.com-borda {
+    border: 2px solid rgb(255, 255, 255);
+    padding: 50px;
+}
+.texto-vermelho {
+    color: rgb(255, 255, 255);
+}
+.com-borda {
+    border: 2px solid rgb(255, 255, 255);
+    padding: 20px;
+}
